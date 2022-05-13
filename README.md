@@ -1,7 +1,8 @@
 - Hi, I’m @christian-gw
 - I’m interested in Acoustics, Vibration, Process and Condition Monitoring (... and a little bit of / load of climbing).
 - I’m currently learning to create python scripts and modules other people can use and contribute.
-- I’m looking to collaborate on scripting stuff you could buy of big companies and be unhappy about it for different reasons. 
+- A lot of the things I try here are already implementet better in open and probrietarry software. 
+- I do it for my own learning mainly.
 - How to reach me ... ... Github probably? idk...
 
 <!---
