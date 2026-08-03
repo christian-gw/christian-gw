@@ -1,5 +1,5 @@
 - Hi, I’m @christian-gw
-- I’m interested in Vibration, Process and Condition Monitoring, ML and Stats (... and a little bit of / load of climbing).
+- I’m interested in Vibration, Process and Condition Monitoring, ML and Stats.
 - I’m playing around with applying stuff from GMMs to VAEs to vibration data.
 - I'm mostly here for my own learning.
 - How to reach me ... ... Github probably? idk...
